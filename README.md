@@ -30,9 +30,10 @@ It serves as a structured record of practical experience, code implementations, 
 | Task 01 | Logic Building - 1 |
 | Task 02 | Logic Building - 2 |
 | Task 03 | Data Processing and Analysis |
-| Task 04 | Function with Loops - 1 |
-| Task 05 | Function with Loops - 2 |
-| Task 06 | OOPS |
+| Task 04 | Function with Loops |
+| Task 05 | Function-based Problem Solving - 1 |
+| Task 06 | Function-based Problem Solving - 2 |
+| Task 07 | OOPS |
 
 ---
 

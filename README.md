@@ -23,6 +23,19 @@ It serves as a structured record of practical experience, code implementations, 
 
 ---
 
+## 📅 Tasks
+
+| Task No | Task Name |
+|---------|-----------|
+| Task 01 | Logic Building - 1 |
+| Task 02 | Logic Building - 2 |
+| Task 03 | Data Processing and Analysis |
+| Task 04 | Function with Loops - 1 |
+| Task 05 | Function with Loops - 2 |
+| Task 06 | OOPS |
+
+---
+
 ## 📚 Key Learnings
 
 * Applied theoretical concepts to real-world problems

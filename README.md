@@ -22,7 +22,7 @@ It serves as a structured record of practical experience, code implementations, 
 * Git & GitHub
 
 ---
-
+## 📘 Module 1 – Python Programming & Logic Building
 ## 📅 Tasks
 
 | Task No | Task Name |
@@ -35,10 +35,16 @@ It serves as a structured record of practical experience, code implementations, 
 | Task 06 | Function-based Problem Solving - 2 |
 | Task 07 | OOPS |
 
+## 📘 Module 2 - FastAPI with Database
+## 📅 Tasks
+| Task No | Task Name |
+|---------|-----------|
+| Task 01 | Assignment 1 - Ecommerce API |
+
 ---
 
 ## 📚 Key Learnings
-
+### From Module 1
 * Applied theoretical concepts to real-world problems
 * Improved debugging and problem-solving skills
 * Learned structured project organization

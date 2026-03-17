@@ -1,0 +1,7 @@
+1. Add Items to the Cart
+2. View the Cart and Verify the Total
+3. Try Adding an Out-of-Stock Product
+4. Add More Quantity of an Existing Cart Item
+5. Remove an Item Then Checkout
+6. Full Cart System Flow — 2 Customers, 2 Sessions
+7. Checkout with Empty Cart — Handle Gracefully

@@ -1,0 +1,6 @@
+1. Add 2 New Products Using POST
+2. Restock the USB Hub Using PUT
+3. Delete a Product and Handle Missing IDs
+4. Full CRUD Sequence — One Complete Workflow
+5. Build GET /products/audit — Inventory Summary
+6. Apply a Category-Wide Discount

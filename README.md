@@ -39,7 +39,11 @@ It serves as a structured record of practical experience, code implementations, 
 ## 📅 Tasks
 | Task No | Task Name |
 |---------|-----------|
-| Task 01 | Assignment 1 - Ecommerce API |
+| Task 01 | Assignment 1 - Product API Foundations |
+| Task 02 | Assignment 2 - Advanced API Logic & Validation |
+| Task 03 | Assignment 3 - CRUD Operations Mastery |
+| Task 04 | Assignment 4 - Shopping Cart System – Core Flow |
+| Task 05 | Assignment 5 - Shopping Cart System – Multi-User Simulation |
 
 ---
 
@@ -48,6 +52,14 @@ It serves as a structured record of practical experience, code implementations, 
 * Applied theoretical concepts to real-world problems
 * Improved debugging and problem-solving skills
 * Learned structured project organization
+
+### From Module 2
+* FastAPI fundamentals & backend development
+* API design thinking 
+* Data validation & error handling
+* Business logic implementation
+* Debugging APIs using Swagger UI
+* Writing clean, structured, scalable backend code
 
 ---
 

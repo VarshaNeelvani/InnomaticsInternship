@@ -45,7 +45,7 @@ It serves as a structured record of practical experience, code implementations, 
 | Task 04 | Assignment 4 - Shopping Cart System – Core Flow |
 | Task 05 | Assignment 5 - Shopping Cart System – Multi-User Simulation |
 
-## 📘 FastAPI - Final Project: Library Book System
+## 📌 FastAPI - Final Project: Library Book System
 Built a Library Book System using FastAPI that manages books, borrowing, queue handling, and return workflows with real-world logic.  
 Implemented advanced features like search, sorting, filtering, and pagination for efficient data handling.
 

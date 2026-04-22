@@ -1,0 +1,11 @@
+Extract the following from the resume:
+- Skills
+- Experience
+- Tools
+
+Do NOT assume anything not mentioned.
+
+Resume:
+{resume}
+
+Return structured output.

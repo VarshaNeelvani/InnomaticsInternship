@@ -1,0 +1,12 @@
+Based on the match, assign a score between 0–100.
+
+Explain clearly why this score is given.
+
+Job:
+{job}
+
+Resume:
+{resume}
+
+Match:
+{match}

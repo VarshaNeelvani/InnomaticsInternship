@@ -1,0 +1,2 @@
+3 years experience in Data Science.
+Skills: Python, Machine Learning, SQL, Pandas, Matplotlib

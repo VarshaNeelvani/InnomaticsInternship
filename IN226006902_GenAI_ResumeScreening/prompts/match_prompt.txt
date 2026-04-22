@@ -1,0 +1,11 @@
+Compare the resume with the job description.
+
+Do NOT assume skills not present.
+
+Job Description:
+{job}
+
+Resume:
+{resume}
+
+Provide matching analysis.
